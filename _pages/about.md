@@ -6,7 +6,7 @@ subtitle: <a href='#'>Ph.D. Student</a>. University of Alberta
 
 profile:
   align: right
-  image: ch.jpg
+  image: 6.jpg
   address: 
     
 news: false  # includes a list of news items
