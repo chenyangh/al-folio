@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 
 ## Hello there,
 
-My name is Chenyang Huang, a Ph.D. student from the University of Alberta. My interests mainly lie in the field of machine laerning and its application to natural language process. Currently, I am focusing on the research of parallel generation. The goal is to efficiently capture target dependencies during training and inference.
+My name is Chenyang Huang, a Ph.D. student from the University of Alberta. My interests mainly lie in the field of machine learing and its application to natural language process. Currently, I am focusing on the research of parallel generation, where I aim at developping methods with efficient dependency modeling.
